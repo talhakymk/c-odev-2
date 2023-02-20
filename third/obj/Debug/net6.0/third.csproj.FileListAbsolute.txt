@@ -1,0 +1,15 @@
+C:\Users\mstrk\calismaalani\hw2\third\bin\Debug\net6.0\third.exe
+C:\Users\mstrk\calismaalani\hw2\third\bin\Debug\net6.0\third.deps.json
+C:\Users\mstrk\calismaalani\hw2\third\bin\Debug\net6.0\third.runtimeconfig.json
+C:\Users\mstrk\calismaalani\hw2\third\bin\Debug\net6.0\third.dll
+C:\Users\mstrk\calismaalani\hw2\third\bin\Debug\net6.0\third.pdb
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.csproj.AssemblyReference.cache
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.AssemblyInfoInputs.cache
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.AssemblyInfo.cs
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.csproj.CoreCompileInputs.cache
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.dll
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\refint\third.dll
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.pdb
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\third.genruntimeconfig.cache
+C:\Users\mstrk\calismaalani\hw2\third\obj\Debug\net6.0\ref\third.dll
